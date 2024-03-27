@@ -68,3 +68,17 @@ By following these steps, one can set up documentation generation with Compodoc 
 - You can generate documentation offline without needing a server.
 
 - Compodoc is open-source and can be installed with npm for easy use.
+
+## References
+
+Issue link- [Storybook issue](https://github.com/storybookjs/storybook/issues/24944)
+
+Vincent Ogloblinsky, "Compodoc: Documentation Tool for Angular 2+ Applications," ( 9 November, 2016), [Medium](https://medium.com/vincent-ogloblinsky/compodoc-documentation-tool-for-angular-2-applications-44ec650e01a8.)
+
+Compodoc README, (n.d.), [GitHub](https://github.com/compodoc/compodoc/blob/master/README.md)
+
+"How to generate documentation in Angular Compodoc," December 31, 2023, [Cloudhadoop](https://www.cloudhadoop.com/angular-documentation-compodoc)
+
+Vincent Ogloblinsky, "Compodoc: The missing documentation tool for your Angular, Nest, Stencil application," (n.d.), [Compodoc](https://compodoc.app/guides/getting-started.html)
+
+"Set up Compodoc for Storybook on Nx," (n.d.) [NX doc](https://nx.dev/recipes/storybook/angular-storybook-compodoc)
