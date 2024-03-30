@@ -1,18 +1,28 @@
-# Language chosen - Javascript
+# _Community Code Project - Part two_
 
-## [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
+### 💡Repository - [Storybook](https://github.com/storybookjs/storybook)
 
-## What is Compodoc?
+### 💡Issue - [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
+
+### --- Task : Need more clarity on what compodoc does
+
+---
+
+# Compodoc Documentation
+
+## 🌟What is Compodoc?
 
 Compodoc, specifically crafted for Angular projects, functions as a documentation tool. When prompted by the CLI, choosing to integrate Compodoc typically entails generating documentation for your Angular project using this tool. The resulting documentation is static and aims to comprehensively cover the core APIs of Angular, encompassing modules, components, injectables, routes, directives, pipes, and standard classes.
 
-## Why to use?
+## 🌟Why to use Compodoc documentation?
 
 Compodoc assists Angular developers in creating clear and beneficial documentation for their applications. This documentation enables other team members or visitors to comprehend the application's features easily, whether for internal collaboration or public reference.
 
-## How to Use
+---
 
-### Step by step procedure
+---
+
+## 🌟Step by Step procedure to Implement
 
 1. Install Required Packages: Begin by installing the necessary packages, including Compodoc, in your project.
 
@@ -50,7 +60,11 @@ npm run storybook
 
 By following these steps, one can set up documentation generation with Compodoc and integrate it into Storybook for the JavaScript project. Adjustments may be needed based on your project's specific setup and requirements.
 
-## Benefits
+---
+
+---
+
+## 🌟Benefits
 
 - Compodoc makes Angular project documentation easy to create.
 
@@ -69,9 +83,11 @@ By following these steps, one can set up documentation generation with Compodoc 
 
 - Compodoc is open-source and can be installed with npm for easy use.
 
-## References
+---
 
-Issue link- [Storybook issue](https://github.com/storybookjs/storybook/issues/24944)
+---
+
+## 🌟References
 
 Vincent Ogloblinsky, "Compodoc: Documentation Tool for Angular 2+ Applications," ( 9 November, 2016), [Medium](https://medium.com/vincent-ogloblinsky/compodoc-documentation-tool-for-angular-2-applications-44ec650e01a8.)
 
