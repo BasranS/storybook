@@ -1,4 +1,4 @@
-# _Community Code Project - Part two_
+# \_Community Code Project - Part one
 
 ### 💡Repository - [Storybook](https://github.com/storybookjs/storybook)
 
