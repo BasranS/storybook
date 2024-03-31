@@ -1,14 +1,6 @@
 # Community Code Project - Part one
 
-### 💡Repository - [Storybook](https://github.com/storybookjs/storybook)
-
-### 💡Issue - [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
-
-### Task : Need more clarity on what compodoc does
-
----
-
-# Compodoc Documentation
+## 🌟Compodoc Documentation
 
 ## 🌟What is Compodoc?
 
