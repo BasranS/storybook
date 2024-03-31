@@ -31,10 +31,14 @@ The provided links offer additional context by directing to a Stack Overflow que
 To contribute to an open-source project of community code part 1:
 
 - I Forked and cloned the project to my machine.
+
 - After that, I establish a new branch with name compodoc_info to work upon the issue.
+
 - Did research about compodoc documentation for angular projects which provided as references.
-- Then after, I create a file with name "compodoc_readme.md" and add everything relevant to the topic along with the forked repo and issue link.
-- Then I commit and push all the content to GitHub.
+
+- Then after, I create a file with name ["compodoc_readme.md"](https://github.com/BasranS/storybook/blob/compodoc_info/Compodoc_readme.md) and add everything relevant to the topic.
+
+* Also, I made a contribution file under name ["compodoc_contribtuion.md"](https://github.com/BasranS/storybook/blob/compodoc_info/Compodoc_contribution.md) to describe my contribution for this work..
 
 ## 🌟Code Review and Outcome
 
