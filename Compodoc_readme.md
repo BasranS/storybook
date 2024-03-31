@@ -1,10 +1,10 @@
-# \_Community Code Project - Part one
+# Community Code Project - Part one
 
 ### 💡Repository - [Storybook](https://github.com/storybookjs/storybook)
 
 ### 💡Issue - [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
 
-### --- Task : Need more clarity on what compodoc does
+### Task : Need more clarity on what compodoc does
 
 ---
 
@@ -22,7 +22,7 @@ Compodoc assists Angular developers in creating clear and beneficial documentati
 
 ---
 
-## 🌟Step by Step procedure to Implement
+## 🌟Step by Step procedure to Implement Compodoc
 
 1. Install Required Packages: Begin by installing the necessary packages, including Compodoc, in your project.
 
@@ -64,7 +64,7 @@ By following these steps, one can set up documentation generation with Compodoc 
 
 ---
 
-## 🌟Benefits
+## 🌟How Compodoc enhances the Angular project
 
 - Compodoc makes Angular project documentation easy to create.
 
@@ -87,9 +87,23 @@ By following these steps, one can set up documentation generation with Compodoc 
 
 ---
 
+## 🌟 Real-world examples who using compodoc
+
+- Project Documentation: Compodoc automatically generates detailed documentation for large-scale Angular projects, aiding in understanding project structure.
+
+- Team Collaboration: It facilitates collaboration by keeping documentation up-to-date alongside code changes, reducing communication overhead.
+
+- Onboarding New Developers: Compodoc accelerates onboarding by providing an accessible overview of the codebase, helping new developers quickly understand the project.
+
+---
+
+---
+
+### _Application use this documentation - [TodoMVC application](https://github.com/compodoc/compodoc-demo-todomvc-angular)_
+
 ## 🌟References
 
-Vincent Ogloblinsky, "Compodoc: Documentation Tool for Angular 2+ Applications," ( 9 November, 2016), [Medium](https://medium.com/vincent-ogloblinsky/compodoc-documentation-tool-for-angular-2-applications-44ec650e01a8.)
+Vincent Ogloblinsky, "Compodoc: Documentation Tool for Angular 2+ Applications," ( 9 November, 2016), [Medium](https://medium.com/vincent-ogloblinsky/compodoc-documentation-tool-for-angular-2-applications-44ec650e01a8)
 
 Compodoc README, (n.d.), [GitHub](https://github.com/compodoc/compodoc/blob/master/README.md)
 
